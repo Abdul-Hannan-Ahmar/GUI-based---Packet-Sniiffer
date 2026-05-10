@@ -28,9 +28,6 @@ On Linux, if tkinter is missing:
 sudo apt install python3-tk
 ```
 
-# 3. Install dependencies
-pip install -r requirements.txt
-
 # 4. Run (requires admin/root for raw socket access)
 sudo .venv/bin/python main.py    # Linux
 python main.py                   # Windows (run terminal as Administrator)
